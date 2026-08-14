@@ -112,7 +112,7 @@ export default function Hero() {
             transition={{ duration: 0.8, delay: 0.2 }}
             className="mb-4 text-xs tracking-[0.45em] text-[#c9a84c] uppercase font-light"
           >
-            Hoskote, Karnataka
+            test, test1
           </motion.div>
 
           <motion.h1
@@ -121,7 +121,7 @@ export default function Hero() {
             transition={{ duration: 0.9, delay: 0.35 }}
             className="text-4xl md:text-5xl lg:text-7xl font-serif text-[#c9a84c] mb-6 leading-tight drop-shadow-lg"
           >
-            Experience rich flavors at Tajj Restaurant (Shahid)
+            Experience rich flavors at Tajj Restaurant
           </motion.h1>
 
 
