@@ -39,7 +39,7 @@ export default function Loader() {
             transition={{ delay: 0.5 }}
             className="text-[#f5f5f0] opacity-70 mt-2 tracking-widest text-sm"
           >
-            SHAHID
+            Fawaz
           </motion.p>
         </motion.div>
       )}
