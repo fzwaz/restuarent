@@ -1,4 +1,0 @@
-{
-  "buildCommand": "pnpm --filter @workspace/taj-restaurant run build",
-  "outputDirectory": "artifacts/taj-restaurant/dist/public"
-}
